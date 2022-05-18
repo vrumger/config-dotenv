@@ -1,0 +1,30 @@
+{
+    "name": "config-dotenv",
+    "version": "0.1.0",
+    "description": "A configurable .env parser",
+    "main": "index.js",
+    "scripts": {
+        "build": "tsc"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vrumger/config-dotenv.git"
+    },
+    "keywords": [
+        "dotenv",
+        ".env",
+        "env",
+        "config",
+        "configurable"
+    ],
+    "author": "Avrumy <contact@lungers.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/vrumger/config-dotenv/issues"
+    },
+    "homepage": "https://github.com/vrumger/config-dotenv#readme",
+    "devDependencies": {
+        "@types/node": "^17.0.34",
+        "typescript": "^4.6.4"
+    }
+}
