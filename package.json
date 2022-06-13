@@ -2,7 +2,7 @@
     "name": "config-dotenv",
     "version": "0.1.0",
     "description": "A configurable .env parser",
-    "main": "index.js",
+    "main": "lib/index.js",
     "scripts": {
         "build": "tsc"
     },
